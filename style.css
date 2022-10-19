@@ -5,3 +5,7 @@ body {
     color: red;
     background-color: darkblue;
 }
+p {
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
